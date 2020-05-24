@@ -1,5 +1,4 @@
-<include a CircleCI status badge, here>
-
+[![CircleCI](https://circleci.com/gh/ptsantar/devops-microservices.svg?style=svg)](https://circleci.com/gh/ptsantar/devops-microservices)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
@@ -18,8 +17,6 @@ Your project goal is to operationalize this working, machine learning microservi
 * Upload a complete Github repo with CircleCI to indicate that your code has been tested
 
 You can find a detailed [project rubric, here](https://review.udacity.com/#!/rubrics/2576/view).
-
-**The final implementation of the project will showcase your abilities to operationalize production microservices.**
 
 ---
 
