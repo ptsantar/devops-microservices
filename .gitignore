@@ -1,0 +1,8 @@
+#ignore python venv
+.devops/*
+
+
+#ignore all screenshots, since they are not needed in the repo
+*_scrnsht.*
+
+

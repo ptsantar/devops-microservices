@@ -1,1 +1,11 @@
-<paste log output from Kubernetes-mediated prediction, here>
+(.devops) paris@ALinux:~/Documents/udacity_hw4/DevOps_Microservices/project-ml-microservice-kubernetes$ ./run_kubernetes.sh 
+Error from server (AlreadyExists): deployments.apps "devops4" already exists
+NAME                      READY   STATUS    RESTARTS   AGE
+devops4-bf597dd76-dnlbc   1/1     Running   0          11m
+Forwarding from 127.0.0.1:8080 -> 80
+Forwarding from [::1]:8080 -> 80
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
